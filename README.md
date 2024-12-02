@@ -43,3 +43,6 @@ stages:
             packageForLinux: '$(System.ArtifactsDirectory)/drop'
             RuntimeStack: 'STATICSITE|1.0'
 ```
+
+
+![alt text](image.png)
