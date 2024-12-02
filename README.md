@@ -4,6 +4,12 @@
 ## Who am I? https://www.linkedin.com/in/ronney-otieno/
 [![image](https://github.com/user-attachments/assets/133898fb-da25-4146-b8fc-490057bd7986)](https://www.linkedin.com/in/ronney-otieno/)
 
+- Automating Deployment with a multi-stage Release Pipelines
+- Continuous Deployment Triggers
+- Continuous delivery using deployment slots to enable Blue-Green deployment
+- Deployment gates such as Query Work Items and Approvals before the prod deployment
+- Update the code to test the entire CICD process with the Build and Release pipeline
+
 **build pipeline yaml**
 ```
 trigger:
