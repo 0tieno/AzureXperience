@@ -1,9 +1,9 @@
 # AzureXperience
 
-## Who am I?
+## Who am I? https://www.linkedin.com/in/ronney-otieno/
 [![image](https://github.com/user-attachments/assets/133898fb-da25-4146-b8fc-490057bd7986)](https://www.linkedin.com/in/ronney-otieno/)
 
-
+**build pipeline yaml**
 ```
 trigger:
   - main
