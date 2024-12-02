@@ -1,6 +1,6 @@
 # AzureXperience
-
-```trigger:
+```
+trigger:
   - main
 
 stages:
@@ -40,4 +40,5 @@ stages:
             appType: 'webAppLinux'
             WebAppName: 'azure-xperience'
             packageForLinux: '$(System.ArtifactsDirectory)/drop'
-            RuntimeStack: 'STATICSITE|1.0'```
+            RuntimeStack: 'STATICSITE|1.0'
+```
