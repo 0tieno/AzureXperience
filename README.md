@@ -1,5 +1,6 @@
 # AzureXperience - CSK | DeKut
  - Deploy your app in simple steps to azure app service with zero down time. 3 demonstrated options
+ - [Watch the Recording](https://www.youtube.com/watch?v=Kn9nJtaOuz4)
 
 ## Who am I? https://www.linkedin.com/in/ronney-otieno/
 [![image](https://github.com/user-attachments/assets/133898fb-da25-4146-b8fc-490057bd7986)](https://www.linkedin.com/in/ronney-otieno/)
